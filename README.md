@@ -1,8 +1,7 @@
-<h1 align="center"> 👋 Hi, my name is Vlad. </h1>
+<h1 align="center"> 👋 Hi, my name is Vlad — Python Backend Developer. </h1>
 
-I'm a backend developer
-
-[![telegram](https://img.shields.io/badge/-Telegram-138ac5?style=flat&logo=telegram&logoColor=white)](https://t.me/rAnto00)
+I build production-ready backend systems: microservices, async APIs, message brokers, and everything in between.
+Currently looking for my first commercial position to grow in a strong engineering team.
 
 ### Languages and Tools
 
@@ -15,3 +14,7 @@ I'm a backend developer
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=plastic&logo=docker&logoColor=2496ED)
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=plastic&logo=linux&logoColor=FCC624)
 ![Git](https://img.shields.io/badge/-Git-090909?style=plastic&logo=git&logoColor=F05032)
+
+### Contact
+
+[![telegram](https://img.shields.io/badge/-Telegram-138ac5?style=flat&logo=telegram&logoColor=white)](https://t.me/rAnto00)
