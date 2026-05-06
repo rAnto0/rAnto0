@@ -23,4 +23,4 @@ Currently looking for my first commercial position to grow in a strong engineeri
 ### Contact
 
 [![telegram](https://img.shields.io/badge/-Telegram-138ac5?style=flat&logo=telegram&logoColor=white)](https://t.me/rAnto00)
-[![email](https://img.shields.io/badge/-Email-138ac5?style=flat&logo=email&logoColor=white)](balyko.vlad1@mail.ru)
+[![Email](https://img.shields.io/badge/-Email-138ac5?style=flat&logo=maildotru&logoColor=white)](mailto:balyko.vlad1@mail.ru)
