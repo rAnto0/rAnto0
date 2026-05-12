@@ -2,8 +2,6 @@
 
 I build production-ready backend systems: microservices, async APIs, message brokers, and everything in between. 
 
-Currently looking for my first commercial position to grow in a strong engineering team.
-
 ### Languages and Tools
 
 ![Python](https://img.shields.io/badge/-Python-090909?style=plastic&logo=python&logoColor=ffeb54)
